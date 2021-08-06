@@ -5,11 +5,11 @@
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Monister-kenzo"><img title="Author" src="https://img.shields.io/badge/Author-monister-kenzo/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Monister-kenzo">ameer-kallumthodi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,8 +19,8 @@ Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumth
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameer-kallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/monister-kenzo/pikachu">
+    <img src="https://img.shields.io/github/repo-size/monister-kenzo/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
